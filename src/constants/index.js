@@ -112,7 +112,7 @@ import {
       ],
     },
     {
-      title: "Summer Intern",
+      title: "Software Engineer Intern",
       company_name: "Infosys Limited",
       icon: infosys,
       iconBg: "#E6DEDD",
@@ -127,7 +127,7 @@ import {
       ],
     },
     {
-      title: "Summer Intern",
+      title: "Software Engineer Intern",
       company_name: "IDEMIA",
       icon: idemia,
       iconBg: "#E6DEDD",
