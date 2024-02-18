@@ -53,8 +53,8 @@ import {
   ]
 
   const interestsData = [
-    { title: "Football", description: "#Barca 🔵🔴⚽️", icon: faFutbol },
-    { title: "Innovation", description: "Invent Tomorrow", icon: faLightbulb },
+    { title: "Football", description: "#Barca. 🔵🔴⚽️", icon: faFutbol },
+    { title: "Innovation", description: "Invent Tomorrow.", icon: faLightbulb },
     { title: "Tech", description: "Code. Connect. Create.", icon: faRobot },
     { title: "Gaming", description: "Respawn. Retry. Conquer.", icon: faGamepad },
   ];
