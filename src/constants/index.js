@@ -91,7 +91,7 @@ import {
       iconBg: "#E6DEDD",
       date: "Aug 2020 - July 2023",
       points: [
-        "Research and exploration on early use cases of privacy-preserving technologies, specifically Homomorphic Encryption and Trusted Execution Environment.",
+        "Research and exploration on early use cases of privacy-preserving technologies, specifically Homomorphic Encryption and Trusted Execution Environment(TEE).",
         "Worked on implementation of IDEMIA’s proprietary face-matching Algorithm in FHE domain using Microsoft SEAL open source library in C++.",
         "Worked on Metaverse exploration and POC development in Decentraland and Spatial.io.",
         "Application development for IDEMIA biometric devices.",
