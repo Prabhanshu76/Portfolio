@@ -29,7 +29,7 @@ function App() {
   console.log(windowWidth);
 
   // Set the pages variable based on the window width
-  const pages = windowWidth >= 768 ? 8.5 : 10;
+  const pages = windowWidth >= 768 ? 10.5 : 15;
 
   return (
     <>
